@@ -27,3 +27,6 @@
 
 ## Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/moonjoo98%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonjoo98&show_icons=true&theme=radical)
