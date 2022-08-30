@@ -3,7 +3,9 @@
 
 ## Hi there🌙
 Hello, I'm MoonJoo Jo, studying **data science**
+
 I am going to graduate from Kookmin University. in 2023
+
 major in **AI Big Data & Management**, and minor in Computer Science.
 
 ## Contact
