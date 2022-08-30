@@ -26,4 +26,4 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
 ## Hits
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=[https://github.com/maj34](https://github.com/moonjoo98)%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/moonjoo98%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
