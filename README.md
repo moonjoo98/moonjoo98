@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=MoonJoo%20Jo&fontColor=FFF884&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 ## Hi there🌙
-Hello, I'm MoonJoo Jo, studying **data science**
+Hello, I'm MoonJoo Jo, studying **data science** specializing in NLP
 
 I am going to graduate from Kookmin University. in 2023
 
