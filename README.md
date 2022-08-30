@@ -2,11 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=MoonJoo%20Jo&fontColor=FFF884&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 ## Hi there🌙
-Hello, I'm MoonJoo Jo, studying **data science** specializing in NLP
+Hello, I'm MoonJoo Jo, studying **data science** specializing in NLP.
 
-I am going to graduate from Kookmin University. in 2023
+I am going to graduate from Kookmin University in 2023
 
-major in **AI Big Data & Management**, and minor in Computer Science.
+majoring in **AI Big Data & Management**, as well as minoring in Computer Science.
 
 ## Contact
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://scratched-quotation-15e.notion.site/Portfolio-05a11a0991634ecc9f70e5626a2da11c)      [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/moon._.zoo/)  [![Mail](https://img.shields.io/badge/cmj0017@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](cmj0017@gmail.com)
