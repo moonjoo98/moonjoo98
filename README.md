@@ -48,7 +48,8 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | 기간 | 소속 | 업무 | 직책 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2022.03 | 콴텍 AI 융합팀 | 뉴스 트렌드 분석을 위한 데이터 수집 및 AI 알고리즘 설게 및 개발(모델링) | 인턴 | 수료 |
-| 2022.09 | 콴텍 AI 융합팀 | 뉴스 트렌드 분석을 위한 데이터 수집 및 AI 알고리즘 설게 및 개발(모델링) | 매니저 | 재직 |
+| 2022.03 | 콴텍 AI 융합팀 | 뉴스 트렌드 분석을 위한 데이터 수집 및 AI 알고리즘 설게 및 개발(모델링) | 매니저 | 재직 |
+
 
 ## Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/moonjoo98%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
