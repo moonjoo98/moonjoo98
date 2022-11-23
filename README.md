@@ -40,9 +40,9 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | 2017.03 ~ | 국민대학교 | 빅데이터경영통계 전공(AI빅데이터융합경영학과) | 제1전공(심화전공) | 재학 |
 | 2017.09 ~ 2022.12| 국민대학교 | 빅데이터경영통계 전공(AI빅데이터융합경영학과) 학회 D&A (ML,DL)| 학회 | 수료 |
 | 2021.09 ~ 2022.08| SKT | SKT AI 커리큘럼 | AI 커리큘럼 | 수료 |
-| 2022.05 ~ 2022.06| Fast campus | 김기현의 BERT, GPT-3를 활용한 자연어처리 | NLP,PLM,Pytorch | 수료 |
+| 2022.05 ~ 2022.06| Fast campus | 김기현의 BERT, GPT-3를 활용한 자연어처리 | 강의 | 수료 |
 | 2022.07 ~ 2022.08| 국민대학교 | AI빅데이터융합경영학과 학회 X:AI 딥러닝 논문 스터디| 학회 | 수료 |
-| 2022.07 ~ 2022.08| Fast campus | 17개 실습으로 마스터하는 딥러닝 전이학습 with TensorFlow Hub | 전이학습,TensorFlow | 수료 |
+| 2022.07 ~ 2022.08| Fast campus | 17개 실습으로 마스터하는 딥러닝 전이학습 with TensorFlow Hub | 강의 | 수료 |
 
 ## Career
 | 기간 | 소속 | 업무 | 비고 |
