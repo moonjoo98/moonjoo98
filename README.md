@@ -35,12 +35,17 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 <br>
 
 ## Education
-| 기간 | 소속 | 전공 & 교육 | 학위 | 비고 |
+| 기간 | 소속 | 전공 & 교육 | 태그 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2017.03 ~ | 국민대학교 | 빅데이터경영통계 전공(AI빅데이터융합경영학과) | 제1전공(심화전공) | 재학 |
 | 2021.09 ~ | SKT | SKT AI 커리큘럼 | AI 커리큘럼 | 수료 |
 | 2022.05 ~ | Fast campus | 김기현의 BERT, GPT-3를 활용한 자연어처리 | NLP,PLM,Pytorch | 수료 |
 | 2022.07 ~ | Fast campus | 17개 실습으로 마스터하는 딥러닝 전이학습 with TensorFlow Hub | 전이학습,TensorFlow | 수료 |
+
+## Career
+| 기간 | 소속 | 업무 | 태그 | 비고 |
+| :------: | :------: | :------: | :------: | :------: |
+| 2022.03 ~ | 콴텍 AI 융합팀 | 뉴스 트렌드 분석을 위한 데이터 수집 및 AI 알고리즘 설게 및 개발(모델링) | 뉴스 트렌드, 모델링 | 재직 |
 
 ## Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/moonjoo98%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
