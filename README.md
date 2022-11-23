@@ -43,9 +43,9 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | 2022.07 ~ | Fast campus | 17개 실습으로 마스터하는 딥러닝 전이학습 with TensorFlow Hub | 전이학습,TensorFlow | 수료 |
 
 ## Career
-| 기간 | 소속 | 업무 | 태그 | 비고 |
-| :------: | :------: | :------: | :------: | :------: |
-| 2022.03 ~ | 콴텍 AI 융합팀 | 뉴스 트렌드 분석을 위한 데이터 수집 및 AI 알고리즘 설게 및 개발(모델링) | 뉴스 트렌드, 모델링 | 재직 |
+| 기간 | 소속 | 업무 | 비고 |
+| :------: | :------: | :------: | :------: |
+| 2022.03 ~ | 콴텍 AI 융합팀 | 뉴스 트렌드 분석을 위한 데이터 수집 및 AI 알고리즘 설게 및 개발(모델링) | 재직 |
 
 ## Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/moonjoo98%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
