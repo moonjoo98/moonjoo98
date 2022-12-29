@@ -78,7 +78,7 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | [학교] 딥러닝 | Pose Estimation을 통한 Anomaly Detection[선행연구 조사 및 연구계획 수립] | [링크](https://github.com/moonjoo98/KMU-CLASS/tree/main/%EB%94%A5%EB%9F%AC%EB%8B%9D)
 | [학교] 빅데이터프로젝트 : 캡스톤디자인 | 스타트업 알바임 빅데이터 기반 마케팅 전략 제안 | [링크](https://github.com/moonjoo98/Capstone-Greyd) |
 | [개인] 개인 프로젝트 | 뉴스 데이터를 활용한 Topic modeling, 감성분석, NER, Relation Extraction | [링크](https://github.com/moonjoo98/News_trend/tree/master/Tner%2BSentiment%20analysis) |
-| [학교] 2022 D&A conference | 내가 이모티콘이 된다면?(StyleGAN2, KoGPT2를 활용한 이미지, 텍스트 생성) | [링크](https://github.com/jipyeong-lee/I_See_Your_Next_Song) |
+| [학교] 2022 D&A conference | 내가 이모티콘이 된다면?(StyleGAN2, KoGPT2를 활용한 이미지, 텍스트 생성) | [링크](https://github.com/moonjoo98/IAM-Emoticon) |
 
 ## Career
 | 기간 | 소속 | 업무 | 직책 | 비고 |
