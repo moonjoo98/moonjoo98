@@ -64,7 +64,7 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | 2022.01 | [DACON] 고용정보원 | 잡케어 추천 알고리즘 경진대회	| 39위(5%) | [링크](https://github.com/moonjoo98/DACON/tree/main/%EC%9E%A1%EC%BC%80%EC%96%B4%20%EC%B6%94%EC%B2%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) |
 | 2022.11 | [DACON] 서울시립대학교 | 2022 UOS 빅데이터 알고리즘 경진대회	| 21위(10%) | [링크](https://github.com/moonjoo98/Seoul_Bike) |
 | 2022.12 | [DACON] 제주 테크노파크 | 감귤 착과량 예측 AI 경진대회	| 41위(16%) | [링크](https://github.com/moonjoo98/DACON/tree/main/%5BDACON%5D%EA%B0%90%EA%B7%A4%20%EC%B0%A9%EA%B3%BC%EB%9F%89) |
-| 2022.12 | [DACON] 성균관대학교 | 문장 유형 분류 AI 경진대회	| 16위(5%) | [링크](https://github.com/moonjoo98/DACON/tree/main/%5BDACON%5D%EB%AC%B8%EC%9E%A5%EC%9C%A0%ED%98%95) |
+| 2022.12 | [DACON] 성균관대학교 | 문장 유형 분류 AI 경진대회	| 14위(5%) | [링크](https://github.com/moonjoo98/DACON/tree/main/%5BDACON%5D%EB%AC%B8%EC%9E%A5%EC%9C%A0%ED%98%95) |
 
 <br>
 
