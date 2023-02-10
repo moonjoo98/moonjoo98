@@ -80,7 +80,7 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | [학교] 텍스트데이터분석 | 올리브영 리뷰 데이터로 화장품별 텍스트 분석 | [링크](https://github.com/moonjoo98/KMU-CLASS/tree/main/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D) |
 | [학교] 딥러닝 | Pose Estimation을 통한 Anomaly Detection[선행연구 조사 및 연구계획 수립] | [링크](https://github.com/moonjoo98/KMU-CLASS/tree/main/%EB%94%A5%EB%9F%AC%EB%8B%9D)
 | [학교] 빅데이터프로젝트 : 캡스톤디자인 | 스타트업 알바임 빅데이터 기반 마케팅 전략 제안 | [링크](https://github.com/moonjoo98/Capstone-Greyd) |
-| [개인] 개인 프로젝트 | 뉴스 데이터를 활용한 Topic modeling, 감성분석, NER, Relation Extraction | [링크](https://github.com/moonjoo98/News_trend/tree/master/Tner%2BSentiment%20analysis) |
+| [개인] 개인 프로젝트 | 뉴스 데이터를 활용한 Topic modeling, 감성분석, NER, Relation Extraction | [링크](https://github.com/moonjoo98/News_trend) |
 | [학교] 2022 D&A conference | 내가 이모티콘이 된다면?(StyleGAN2, KoGPT2를 활용한 이미지, 텍스트 생성) | [링크](https://github.com/moonjoo98/IAM-Emoticon) |
 
 ## Career
