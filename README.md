@@ -60,7 +60,7 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | 2021.06 | [DACON] LH | LH주차수요 예측 AI 경진대회 | 88위(17%) | [링크](https://github.com/moonjoo98/DACON/tree/main/LH%EC%A3%BC%EC%B0%A8%EC%88%98%EC%9A%94%EC%98%88%EC%B8%A1)|
 | 2021.08 | [DACON] NH | NH투자증권 빅데이터 경진대회 | 69위(25%) | [링크](https://github.com/moonjoo98/DACON/tree/main/NH%20%EC%A3%BC%EC%8B%9D%EB%B3%B4%EC%9C%A0%EA%B8%B0%EA%B0%84%20%EC%98%88%EC%B8%A1) |
 | 2021.09 | 빅콘테스트 | 프로야구 배럴(Barrel)을 통한 성적 예측 | X | [링크](https://github.com/moonjoo98/BigContest) |
-| 2021.11 | BC | 금융 빅데이터 플랫폼 활용 아이디어 공모전	| X | [링크](https://github.com/moonjoo98/DACON/tree/main/%EC%9E%A1%EC%BC%80%EC%96%B4%20%EC%B6%94%EC%B2%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) |
+| 2021.11 | BC | 금융 빅데이터 플랫폼 활용 아이디어 공모전	| X | [링크](https://github.com/moonjoo98/Competition/tree/main/%EA%B8%88%EC%9C%B5%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%8C%EB%9E%AB%ED%8F%BC) |
 | 2021.11 | [KAGGLE] 플랫포머스 | 매니저 매칭 성공여부 예측 대회	| 7위(20%) | [링크](https://github.com/moonjoo98/KAGGLE) |
 | 2022.01 | [DACON] 고용정보원 | 잡케어 추천 알고리즘 경진대회	| 39위(5%) | [링크](https://github.com/moonjoo98/DACON/tree/main/%EC%9E%A1%EC%BC%80%EC%96%B4%20%EC%B6%94%EC%B2%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) |
 | 2022.11 | [DACON] 서울시립대학교 | 2022 UOS 빅데이터 알고리즘 경진대회	| 21위(10%) | [링크](https://github.com/moonjoo98/Seoul_Bike) |
