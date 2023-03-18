@@ -9,7 +9,7 @@ I am going to graduate from Kookmin University. in 2023
 major in **AI Big Data & Management**, and minor in Computer Science.
 
 ## Contact
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://scratched-quotation-15e.notion.site/Portfolio-05a11a0991634ecc9f70e5626a2da11c)      [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/moon._.zoo/)  [![Mail](https://img.shields.io/badge/cmj0017@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](cmj0017@gmail.com)
+[![Notion](https://scratched-quotation-15e.notion.site/MoonJoo-JO-63e5c00c1676472f8b75f3e9c13e28c6)      [![Instagram](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/moon._.zoo/)  [![Mail](https://img.shields.io/badge/cmj0017@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](cmj0017@gmail.com)
 
 ## 🛠 Technical Skills 🛠
 <p align="left">
