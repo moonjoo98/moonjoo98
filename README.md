@@ -69,6 +69,7 @@ major in **AI Big Data & Management**, and minor in Computer Science.
 | 2022.12 | [DACON] 성균관대학교 | 문장 유형 분류 AI 경진대회	| 14위(5%) | [링크](https://github.com/moonjoo98/DACON/tree/main/%5BDACON%5D%EB%AC%B8%EC%9E%A5%EC%9C%A0%ED%98%95) |
 | 2022.12 | [DACON] 충남대학교, AI Frenz | 유전체 정보 품종 분류 AI 경진대회	| 실습 | [링크](https://github.com/moonjoo98/DACON/tree/main/%EC%9C%A0%EC%A0%84%EC%B2%B4%20%EC%A0%95%EB%B3%B4%20%ED%92%88%EC%A2%85%20%EB%B6%84%EB%A5%98) |
 | 2022.12 | [DACON] 교원그룹 | 교원 그룹 AI챌린지 대회 (OCR)| 18위(5%) | [링크](https://github.com/moonjoo98/DACON/tree/main/%5BDACON%5D%EA%B5%90%EC%9B%90%20OCR%20%EC%B1%8C%EB%A6%B0%EC%A7%80) |
+| 2023.05 | [DACON] 신한AI | 신한AI, 금융 AI 서비스 아이디어 경진대회| 4위 | [링크](https://github.com/moonjoo98/Financial_product_recommendation) |
 
 <br>
 
