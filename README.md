@@ -8,7 +8,7 @@
 현재 저는 **NLP**, **음성 기술**, **이상 탐지 시스템(FDS)** 분야를 중심으로 연구를 진행하고 있습니다.
 
 **NLP**
-- 현재 퀀텀AI에서 텍스트 데이터 처리 및 분석, LLM을 활용하여 RAG(Retrieval-Augmented Generation), 요약(Summarization) 등 비즈니스에 활용할 수 있는 다양한 과제를 연구하고 있습니다.
+- 현재 퀀텀AI에서 텍스트 데이터 처리 및 분석, 그리고 LLM을 활용하여 RAG(Retrieval-Augmented Generation), 요약(Summarization) 등 비즈니스에 활용할 수 있는 다양한 과제를 연구하고 있습니다.
 - 과거 한화투자증권 STESP 앱의 뉴스 트렌드 서비스를 개발했습니다.
 - 교원 그룹 OCR 챌린지 및 문장 유형 분류 대회에서 상위 5%에 해당하는 성과를 달성했습니다.
  
