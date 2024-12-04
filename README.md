@@ -2,11 +2,21 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=MoonJoo%20Jo&fontColor=FFF884&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 ## Hi there🌙
-Hello, I'm MoonJoo Jo, studying **data science** specializing in NLP
 
-I am going to graduate from Kookmin University. in 2023
+안녕하세요, 저는 2023년 국민대학교 **AI 빅데이터 전공**을 졸업한 **AI Researcher** **조문주**입니다.
 
-major in **AI Big Data & Management**, and minor in Computer Science.
+현재 저는 **NLP**, **음성 기술**, **이상 탐지 시스템(FDS)** 분야를 중심으로 연구를 진행하고 있습니다.
+
+**NLP**
+- 현재 퀀텀AI에서 텍스트 데이터 처리 및 분석, LLM을 활용하여 RAG(Retrieval-Augmented Generation), 요약(Summarization) 등 비즈니스에 활용할 수 있는 다양한 과제를 연구하고 있습니다.
+- 과거 한화투자증권 STESP 앱의 뉴스 트렌드 서비스를 개발했습니다.
+- 교원 그룹 OCR 챌린지 및 문장 유형 분류 대회에서 상위 5%에 해당하는 성과를 달성했습니다.
+ 
+**Voice**
+- 현재 퀀텀AI에서 AICC의 핵심 기술이 되는 음성 신호 처리, VAD, STT, TTS, 그리고 Socket 통신과 관련된 연구를 수행하고 있습니다.
+
+**FDS**
+- 현재 롯데손해보험에서 보험 데이터를 분석하고 시각화하며, 이상 탐지 모델을 직접 개발하고 있습니다.
 
 ## Contact
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://scratched-quotation-15e.notion.site/MoonJoo-JO-63e5c00c1676472f8b75f3e9c13e28c6?pvs=4)
