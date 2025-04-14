@@ -5,10 +5,15 @@
 
 안녕하세요, 저는 2023년 국민대학교 **AI 빅데이터 전공**을 졸업한 **AI Researcher** **조문주**입니다.
 
-현재 저는 **NLP**, **음성 기술**, **이상 탐지 시스템(FDS)** 분야를 중심으로 연구를 진행하고 있습니다.
+현재 저는 **LLM**, **NLP**, **Voice**, **이상 탐지 시스템(FDS)** 분야를 중심으로 연구를 진행하고 있습니다.
+
+**LLM**
+- 도메인과 고객 요구사항을 적합한 RAG(Retrieval-Augmented Generation) 프로세스 기획 및 개발을 진행하고 있습니다.
+- LLM을 활용하여 도메인에 따른 데이터 생성/정제/평가 등 자동화 프로세스를 개발하고 있습니다.
+- LLM 경량화 및 파인튜닝 기법에 대해 연구하고 있습니다.
 
 **NLP**
-- 현재 퀀텀AI에서 텍스트 데이터 처리 및 분석, 그리고 LLM을 활용하여 RAG(Retrieval-Augmented Generation), 요약(Summarization) 등 비즈니스에 활용할 수 있는 다양한 과제를 연구하고 있습니다.
+- 현재 퀀텀AI에서 텍스트 데이터 처리 및 분석, FAQ Engine, Semantic Paragraph Chunking, 고객 의도 분류 모델요약 등 비즈니스에 활용할 수 있는 다양한 과제를 연구하고 있습니다.
 - 과거 한화투자증권 STESP 앱의 뉴스 트렌드 서비스를 개발했습니다.
 - 교원 그룹 OCR 챌린지 및 문장 유형 분류 대회에서 상위 5%에 해당하는 성과를 달성했습니다.
  
@@ -16,7 +21,7 @@
 - 현재 퀀텀AI에서 AICC의 핵심 기술이 되는 음성 신호 처리, VAD, STT, TTS, 그리고 Socket 통신과 관련된 연구를 수행하고 있습니다.
 
 **FDS**
-- 현재 롯데손해보험에서 보험 데이터를 분석하고 시각화하며, 이상 탐지 모델을 직접 개발하고 있습니다.
+- 현재 롯데손해보험에서 보험 데이터를 분석하고 시각화하며, 이상 탐지 모델 프로세스 설계 및 개발을 진행하고 있습니다.
 
 ## Contact
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://scratched-quotation-15e.notion.site/MoonJoo-JO-63e5c00c1676472f8b75f3e9c13e28c6?pvs=4)
