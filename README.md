@@ -23,9 +23,6 @@
 **FDS**
 - 현재 롯데손해보험에서 보험 데이터를 분석하고 시각화하며, 이상 탐지 모델 프로세스 설계 및 개발을 진행하고 있습니다.
 
-## Contact
-style=flat-square&logo=Gmail&logoColor=white)](cmj0017@gmail.com)
-
 ## 🛠 Technical Skills 🛠
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
